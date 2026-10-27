@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HaloPSA is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://usehalo.com/
+Halo (formerly HaloPSA) provides a unified workflow automation platform for enterprises, offering modules for IT Service Management (ITSM), Customer Service Management (CSM), Enterprise Service Management (ESM), CRM, and Professional Services Automation (PSA). The solution integrates AI-driven automation, extensive third‑party integrations, and a low‑code portal for building custom workflows, targeting mid‑size to large organizations across multiple industries.
+
+**Areas:** Company · Workflow Automation · IT Service Management · Customer Service Management · Enterprise Service Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://usehalo.com/)
+- [Documentation](https://www.usehalo.com/guides/)
+- [Getting started](https://www.usehalo.com/onboarding-process)
+- [API reference](https://www.usehalo.com/swagger)
+- [Pricing](https://www.usehalo.com/pricing)
+- [Security](https://www.usehalo.com/security)
+- [Terms of service](https://www.usehalo.com/terms-conditions)
+- [Privacy policy](https://www.usehalo.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/halopsa/](https://apis.io/providers/halopsa/).
